@@ -857,7 +857,8 @@ function liquidReveal(stage, canvas, afterSrc, { brushRadius = 140, decay = 0.01
     'assets/apps/vianabuy-icon.webp',
     'assets/apps/velloreads-icon.webp',
     'assets/apps/codeshift-icon.svg',
-    'assets/apps/cleanmac-icon.webp'
+    'assets/apps/cleanmac-icon.webp',
+    'assets/apps/mydiary-icon.png'
   ];
 
   let cur = 0;
@@ -1222,14 +1223,35 @@ const ROOMS_DATA = [
     id: 'web',
     doorName: 'Door 03 · Web Development & Real-Time Apps',
     title: 'Modern Web Applications & Real-Time Systems',
-    desc: 'High-performance real-time web applications, collaborative developer platforms, and reactive frontend architectures built with Microsoft Monaco Editor, WebSockets / Firebase Realtime DB, client-side AES encryption, and responsive interactive SVG maps.',
-    count: '02 Featured Web Platforms',
+    desc: 'High-performance real-time web applications, 3D WebGL physical simulations, collaborative developer platforms, and reactive architectures built with Three.js, Next.js 16, React 19, Microsoft Monaco Editor, WebSockets / Firebase, client-side AES-256-GCM vault security, and interactive SVG maps.',
+    count: '03 Featured Web Platforms',
     accent: '#7A8670',
     projects: [
       {
+        icon: '📖',
+        iconImg: 'assets/apps/mydiary-icon.png',
+        iconBg: '#1B140E',
+        num: '01 / 03',
+        isStoreApp: true,
+        storeType: 'web',
+        category: 'Web · 3D Memory Library & FlipBook',
+        title: 'MyDiary — 3D Physical Memory Library & FlipBook',
+        sub: 'Tactile 3D Walnut Shelf, Physics FlipBook, E2EE Vault & Book Studio',
+        desc: 'Editorial 3D physical memory library and interactive flipbook diary built with Next.js 16, React 19, Three.js, and Tailwind CSS v4. Experience personal diaries as clothbound hardcovers resting on a continuous procedural walnut shelf with synchronized 3D flipbook page turning, real-time Book Studio customizer, client-side AES-256-GCM vault security, offline IndexedDB sync, and a Verlet rope theme toggle.',
+        tags: ['Next.js 16', 'React 19', 'Three.js', 'Tailwind CSS v4', 'AES-256-GCM Vault', 'WebGL', 'Open Source'],
+        urlBar: 'kaushalboii.github.io/MyDiary',
+        previewImg: 'assets/apps/mydiary-preview.png',
+        liveLink: 'https://kaushalboii.github.io/MyDiary/',
+        liveText: 'Launch MyDiary Live ↗',
+        gitLink: 'https://github.com/kaushalboii/MyDiary',
+        gitText: 'Source Code ↗',
+        note: 'Live Production Web Platform · 3D Physical Book Library & E2EE Vault',
+        screenBg: '#18120e'
+      },
+      {
         iconImg: 'assets/apps/codeshift-icon.svg',
         iconBg: '#000000',
-        num: '01 / 02',
+        num: '02 / 03',
         isStoreApp: true,
         storeType: 'web',
         category: 'Web · Collaborative Editor',
@@ -1249,7 +1271,7 @@ const ROOMS_DATA = [
       {
         icon: '🛰️',
         iconBg: '#0F172A',
-        num: '02 / 02',
+        num: '03 / 03',
         isStoreApp: true,
         storeType: 'web',
         category: 'Web · Geotagged News Radar',
@@ -1427,12 +1449,12 @@ const ROOMS_DATA = [
       'CPC Act 1908, POSH & Police Act Pocket References (Google Play)',
       'Coroutines, FTS5 Offline SQLite & Material 3'
     ]],
-    ['Web Development', 'Real-Time Apps, Monaco Code Editor & Live Radar', [
+    ['Web Development', 'Real-Time Apps, 3D WebGL, Monaco & Live Radar', [
+      'MyDiary — 3D Physical Memory Library & Physics FlipBook',
       'CodeShift — Real-Time Collaborative Code Editor (Monaco)',
-      'Client-Side AES-GCM Encryption & Live Peer Cursor Presence',
+      'Client-Side AES-256-GCM / AES-GCM Vault & Live Peer Cursors',
       'India News Radar — Real-Time Geotagged Intelligence Platform',
-      'Interactive Geotagged SVG Map with Coordinate Intelligence',
-      'Semantic HTML5, Modern Responsive CSS & JavaScript ES6+'
+      'Three.js 3D WebGL, Next.js 16, React 19 & Tailwind CSS v4'
     ]],
     ['AI & Neural Nets', 'Deep Learning, Computer Vision & Audio DSP', [
       'Automatic Comic Generator with DCGAN (PyTorch)',

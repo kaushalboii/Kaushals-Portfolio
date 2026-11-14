@@ -76,10 +76,12 @@ Full-screen modal room experience featuring smooth stacked elevation cards with 
 | **BNS & BNSS 2023 Reference** | Android 8.0+ | Kotlin, Room Database, IPC to BNS Cross-Conversion Matrix, Criminal Procedure Reforms | [Live on Google Play Store](https://play.google.com/store/apps/details?id=com.law.bns) |
 | **CPC Act - Pocket Reference** | Android 8.0+ | Kotlin, Jetpack Compose, Offline First, Instant Section & Order FTS Search, Material 3 | [Live on Google Play Store](https://play.google.com/store/apps/details?id=com.law.cpc) |
 
-#### 🚪 Door 03 · Web Development (`Modern Web Apps, Reactive Architecture & APIs`)
+#### 🚪 Door 03 · Web Development (`Modern Web Apps, 3D WebGL & Real-Time Platforms`)
 | Project | Platform | Architecture & Technologies | Distribution |
 | :--- | :--- | :--- | :--- |
-| **India News Radar** | Live Web App | Real-Time Geotagged Intelligence, Interactive SVG Map, Multi-Source Correlation, REST APIs | [Live on GitHub Pages](https://kaushalboii.github.io/Live-news-updated-India/) |
+| **MyDiary** | Live Web App & 3D Shelf | Next.js 16, React 19, Three.js 3D Walnut Shelf, Physics FlipBook, AES-256-GCM Vault, Tailwind v4 | [Live on GitHub Pages](https://kaushalboii.github.io/MyDiary/) · [Source Code](https://github.com/kaushalboii/MyDiary) |
+| **CodeShift** | Live Web App | Monaco Editor Engine, Client-Side AES-GCM Encryption, Live Peer Cursors, Firebase Realtime Sync | [Live on GitHub Pages](https://kaushalboii.github.io/codeshift/) · [Source Code](https://github.com/kaushalboii/codeshift) |
+| **India News Radar** | Live Web App | Real-Time Geotagged Intelligence, Interactive SVG Map, Multi-Source Correlation, REST APIs | [Live on GitHub Pages](https://kaushalboii.github.io/Live-news-updated-India/) · [Source Code](https://github.com/kaushalboii/Live-news-updated-India) |
 
 #### 🚪 Door 04 · AI & Neural Nets (`Deep Learning, Computer Vision & Audio DSP`)
 | Project | Domain | Model Architecture & Technologies | Source |
