@@ -1,15 +1,15 @@
 # 🚪 M Kaushal Maran — Portfolio & Systems Architecture
 
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-kaushalboii.github.io-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kaushalboii.github.io/Kaushal-s-Portfolio/)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-kaushalboii.github.io-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kaushalboii.github.io/Kaushals-Portfolio/)
 [![Swift](https://img.shields.io/badge/Swift-5.10-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Lenis](https://img.shields.io/badge/Lenis-v1.3.23-111111?style=for-the-badge)](https://lenis.darkroom.engineering/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-An architectural, editorial portfolio for **M Kaushal Maran**, Mobile App Developer and final-year B.Tech Information Technology student at SIMATS Engineering College (CGPA 8.1). Built from first principles using vanilla web technologies, physics-driven canvas simulations, and tactile 3D interactions inspired by world-class editorial design.
+An architectural, editorial portfolio for **M Kaushal Maran**, Mobile App Developer and B.Tech Information Technology graduate from SIMATS Engineering College (CGPA 8.1). Built from first principles using vanilla web technologies, physics-driven canvas simulations, and tactile 3D interactions inspired by world-class editorial design.
 
-🔗 **Production Deployment**: [https://kaushalboii.github.io/Kaushal-s-Portfolio/](https://kaushalboii.github.io/Kaushal-s-Portfolio/)
+🔗 **Production Deployment**: [https://kaushalboii.github.io/Kaushals-Portfolio/](https://kaushalboii.github.io/Kaushals-Portfolio/)
 
 ---
 
@@ -205,10 +205,10 @@ No complex build pipelines, bundlers, or Node dependencies are required. Run dir
 
 ```bash
 # Clone the repository
-git clone https://github.com/kaushalboii/Kaushal-s-Portfolio.git
+git clone https://github.com/kaushalboii/Kaushals-Portfolio.git
 
 # Navigate into the project directory
-cd Kaushal-s-Portfolio
+cd Kaushals-Portfolio
 
 # Start a lightweight local HTTP server
 python3 -m http.server 8000
@@ -223,8 +223,8 @@ Open `http://localhost:8000` in your web browser.
 ## 👨‍💻 Author & Connect
 
 **M Kaushal Maran**  
-*Mobile App Developer · SIMATS Engineering College, Information Technology '26*  
-- **Portfolio**: [https://kaushalboii.github.io/Kaushal-s-Portfolio/](https://kaushalboii.github.io/Kaushal-s-Portfolio/)  
+*Mobile App Developer · SIMATS Engineering College, B.Tech Graduate (CGPA 8.1)*  
+- **Portfolio**: [https://kaushalboii.github.io/Kaushals-Portfolio/](https://kaushalboii.github.io/Kaushals-Portfolio/)  
 - **GitHub**: [@kaushalboii](https://github.com/kaushalboii)  
 - **Email**: [kaushalmaranm@gmail.com](mailto:kaushalmaranm@gmail.com)  
 - **Location**: Vellore / Chennai, Tamil Nadu, India
